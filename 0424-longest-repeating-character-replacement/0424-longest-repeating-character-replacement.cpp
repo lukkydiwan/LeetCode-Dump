@@ -8,9 +8,9 @@ public:
             m[s[r]]++;
             maxFreq=max(maxFreq,m[s[r]]);
             int curr=r-l+1;
-            while((r-l+1)-maxFreq>k){
+            if((r-l+1)-maxFreq>k){
                 m[s[l]]--;
-                maxFreq=max(maxFreq,m[s[l]]);
+                // maxFreq=max(maxFreq,m[s[l]]);
                 l++;
             }
             ans=max(ans,r-l+1);
