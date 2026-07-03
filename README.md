@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
