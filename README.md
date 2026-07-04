@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
 | [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
