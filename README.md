@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
+| [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
