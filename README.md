@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0115-distinct-subsequences) |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
