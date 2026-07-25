@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
 | [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
