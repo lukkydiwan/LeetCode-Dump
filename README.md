@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
