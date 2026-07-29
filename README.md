@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0628-maximum-product-of-three-numbers) |
+| [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -180,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
