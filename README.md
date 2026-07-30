@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
