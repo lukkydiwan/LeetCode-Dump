@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -260,4 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
