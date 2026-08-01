@@ -12,11 +12,11 @@
 class Solution {
 public:
     bool ans(TreeNode *left, TreeNode* right){
-        if(left==NULL && right==NULL)return true;
-        if(left==NULL || right==NULL)return false;
+        if(left==NULL || right==NULL)return left==right;
+        if(left->val!=right->val)return false;
         int l=ans(left->left,right->right);
         int r=ans(left->right,right->left);
-        return l&&r&&left->val==right->val;
+        return l&&r;
 
     }
     bool isSymmetric(TreeNode* root) {
