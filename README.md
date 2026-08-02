@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
@@ -300,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
