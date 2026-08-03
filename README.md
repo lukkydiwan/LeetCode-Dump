@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
