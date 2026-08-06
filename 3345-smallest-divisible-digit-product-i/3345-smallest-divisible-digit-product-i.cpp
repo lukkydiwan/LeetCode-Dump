@@ -2,7 +2,7 @@ class Solution {
 public:
     int prod(int n){
         int ans=1;
-        while(n>0){
+        while(n){
             ans*=n%10;
             n/=10;
         }
