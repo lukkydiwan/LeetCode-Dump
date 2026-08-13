@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
