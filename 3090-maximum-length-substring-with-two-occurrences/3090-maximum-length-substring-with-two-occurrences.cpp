@@ -2,17 +2,23 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int ans=0;
-        for(int i=0; i<s.size(); i++){
-            unordered_map<char,int> m;
-            int maxF=0;
-            for(int j=i; j<s.size(); j++){
-                m[s[j]]++;
-                maxF=max(maxF,m[s[j]]);
-                if(maxF>2){
-                    break;
+        unordered_map<int,int> m;
+        int maxF=0;
+        int st=0,end=0;
+        while(end<s.size()){
+            m[s[end]]++;
+            maxF=max(maxF,m[s[end]]);
+            if(maxF>2){
+                while(s[st]!=s[end]){
+                    m[s[st]]--;
+                    st++;
                 }
-                else ans=max(ans,j-i+1);
-            }    
+                maxF=2;
+                m[s[st]]--;
+                st++;
+            }
+            ans=max(ans,end-st+1);
+            end++;
         }
         return ans;
     }
