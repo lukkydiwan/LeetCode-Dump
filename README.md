@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0300-longest-increasing-subsequence) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -406,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3310-remove-methods-from-project) |
@@ -431,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Game Theory
 |  |
@@ -514,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
