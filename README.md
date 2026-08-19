@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1406-stone-game-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3310-remove-methods-from-project) |
