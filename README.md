@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0877-stone-game) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1331-rank-transform-of-an-array) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0785-is-graph-bipartite) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0785-is-graph-bipartite) |
@@ -446,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1631-path-with-minimum-effort) |
