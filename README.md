@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1248-count-number-of-nice-subarrays) |
