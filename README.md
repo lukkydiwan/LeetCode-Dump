@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0877-stone-game) |
+| [0968-binary-tree-cameras](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0968-binary-tree-cameras) |
 | [1048-longest-string-chain](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bidirectional Search
 |  |
