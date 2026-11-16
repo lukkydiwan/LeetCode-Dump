@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/0289-game-of-life) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/lukkydiwan/LeetCode-Dump/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
